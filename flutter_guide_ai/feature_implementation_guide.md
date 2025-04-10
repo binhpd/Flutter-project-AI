@@ -66,21 +66,6 @@
 - Cập nhật `lib/router/app_router.dart`
 - Kiểm tra lại luồng điều hướng
 
-### 10. Testing
-- Test form validation
-- Test API integration
-- Test error handling
-- Test UI/UX
-- Test performance
-- Test memory leaks
-
-### 11. Documentation
-- Cập nhật README với thông tin về feature mới
-- Document các API endpoints
-- Document các validation rules
-- Document các error codes và cách xử lý
-- Thêm comments cho code phức tạp
-
 ## B. Cấu Trúc Thư Mục
 
 ```
@@ -135,15 +120,6 @@ packages/rest_client/
 5. **Code Generation**:
    - Chạy code generation sau khi tạo model, API và bloc
    - Kiểm tra các file được generate
-
-6. **Testing**:
-   - Test tất cả các trường hợp thành công và thất bại
-   - Test UI trên các kích thước màn hình khác nhau
-
-7. **Documentation**:
-   - Document rõ ràng các API endpoints
-   - Document các validation rules
-   - Thêm comments cho code phức tạp
 
 ## D. Ví Dụ Cụ Thể
 
